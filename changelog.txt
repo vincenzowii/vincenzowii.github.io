@@ -1,0 +1,22 @@
+Change Log
+
+0.1
+	-Initial Release (written by Lappy512)
+	-Form validation using Javascript
+
+0.2
+	-Changed to log the data in HTML Tables instead of ugly HTML
+	-Remade the form processing in PHP
+
+0.3
+	-Added logging for MySQL
+	-Added the Admin Page (with stats and log)
+	-Added install.php
+	-Rewrote the sendmail.php
+	
+0.4
+	-Transitioned to a more modern PHP scripting style
+	-Rewrote the sendmail.php (once again)
+	-Made index.php pretty
+	-Rewrote nstall.php
+	-Rewrote admin.php

@@ -1,0 +1,8 @@
+      PHP Image Script can be installed on any PHP/MySQL Environment. It is a web interface to send "anonymous" emails that can be sent “to” and “from” any email.  It can send up to 9 emails at once. It also records all the data about the emails sent in:  
+a) MySQL database, which it can recall with the administration page
+b) HTML Unformatted File
+c) Table-based HTML page
+
+
+Page 1 of 1
+
